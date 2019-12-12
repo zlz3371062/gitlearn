@@ -14,3 +14,4 @@ remote
 
 clone
 
+change before pull
